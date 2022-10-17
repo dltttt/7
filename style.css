@@ -1,0 +1,32 @@
+h1 {
+   text-align:justify;
+   color:black;
+   font-size: 70px
+}
+
+a {
+  color:black;
+  text-decoration-line: none
+
+
+}
+
+.saw {
+   color: gray;
+     text-decoration-line: none
+ }
+
+ #active {
+    color:blue;
+      text-decoration-line:underline;
+  }
+
+  span {
+    color:red;
+    text-decoration-line:none
+
+  }
+
+  p.thicker {
+    font-weight: 900;
+  }
